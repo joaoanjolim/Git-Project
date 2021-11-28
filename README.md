@@ -1,1 +1,1 @@
-Esse projeto nós ajuda a entender melhor sobre o Git.
+Esse projeto nós ajuda a entender melhor sobre o Git/Github.
